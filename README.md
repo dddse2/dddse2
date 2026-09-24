@@ -15,8 +15,8 @@
 - 🔬 Research direction: Genomics and Bioinformatics
 
 🛠️ Tech Stack
-- Languages: [CHECK] Python · R · Shell
-- Environment: [CHECK] Linux · Git · Conda
+- Languages: Python · R · Shell
+- Environment: Linux
 
 📫 Get in Touch
 - ✉️ 417412782@qq.com
