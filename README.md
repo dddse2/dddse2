@@ -1,10 +1,6 @@
 <h3 align="center">👋 Hi there, I'm dddse2</h3>
 <p align="center">
   🎓 M.Sc. Student, Class of 2026 · Huazhong Agricultural University
-
-  🧬 Major: Biochemistry and Molecular Biology
-
-  🔬 Research: Genomics &amp; Bioinformatics
 </p>
 🔬 About Me
 
