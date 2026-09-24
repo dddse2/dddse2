@@ -8,7 +8,9 @@
 </p>
 🔬 About Me
 - 🎓 First-year Master's student at Huazhong Agricultural University (Class of 2026)
+
 - 🧬 Majoring in Biochemistry and Molecular Biology
+
 - 🔬 Research direction: Genomics and Bioinformatics
 
 🛠️ Tech Stack
