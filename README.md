@@ -1,16 +1,19 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there, I'm dddse2</h3>
+<p align="center">
+  🎓 M.Sc. Student, Class of 2026 · Huazhong Agricultural University
 
-<!--
-**dddse2/dddse2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🧬 Major: Biochemistry and Molecular Biology
 
-Here are some ideas to get you started:
+  🔬 Research: Genomics &amp; Bioinformatics
+</p>
+🔬 About Me
+- 🎓 First-year Master's student at Huazhong Agricultural University (Class of 2026)
+- 🧬 Majoring in Biochemistry and Molecular Biology
+- 🔬 Research direction: Genomics and Bioinformatics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+- Languages: [CHECK] Python · R · Shell
+- Environment: [CHECK] Linux · Git · Conda
+
+📫 Get in Touch
+- ✉️ 417412782@qq.com
